@@ -1,0 +1,14 @@
+Par exemple j ai 2 hashmap
+Map<String, Object> map = new HashMap<>();
+        map.put("a", 10);
+        map.put("b", 20);
+        map.put("c", 30); 
+    engine.put("x", map);
+
+    Map<String, Object> map = new HashMap<>();
+        map.put("d", 5);
+        map.put("e", 25);
+        map.put("f", 31); 
+    engine.put("y", map);
+
+comment faire pour que  x < y me donne les resultat ae,af,be,bf,cf
