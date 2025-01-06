@@ -18,7 +18,7 @@ Welcome to the Java Database Management System! 🚀 This project is designed to
 
     There are basic requests like in Mysql,Postgres,etc...
 
-📄 Documentation:
+📄 Documentations:
 
 Comprehensive documentation is available to guide you through the features and usage of each class and method. 📚
 🤝 Contributions Welcome:
