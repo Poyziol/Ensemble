@@ -4,19 +4,19 @@
 Welcome to the Java Database Management System! 🚀 This project is designed to deliver a robust and intuitive database management system, fully developed in Java. With a carefully crafted implementation, it aims to simplify data management for both developers and users. 🌟
 🌟 Key Features:
 
-    🔍 Search and Filter: Perform precise searches and apply filters to your data for quick analysis.
-    ➕ Add and Remove: Easily manage the addition of new entries and the removal of outdated ones to keep your database up-to-date.
-    ✏️ Update Data: Effortlessly modify existing entries with dedicated functions.
-    🔗 Manage Relationships: Create and manage relationships between different entities for optimal organization.
+🔍 Search and Filter: Perform precise searches and apply filters to your data for quick analysis.
+➕ Add and Remove: Easily manage the addition of new entries and the removal of outdated ones to keep your database up-to-date.
+✏️ Update Data: Effortlessly modify existing entries with dedicated functions.
+🔗 Manage Relationships: Create and manage relationships between different entities for optimal organization.
 
 🛠️ Technologies Used:
 
-    Language: Java ☕
-    Architecture: Object-oriented, with a Relation class centralizing management operations.
+Language: Java ☕
+Architecture: Object-oriented, with a Relation class centralizing management operations.
 
 💡 Functions in Relation:
 
-    There are basic requests like in Mysql,Postgres,etc...
+There are basic requests like in Mysql,Postgres,etc...
 
 📄 Documentations:
 
